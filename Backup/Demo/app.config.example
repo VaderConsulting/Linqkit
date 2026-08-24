@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Demo.Properties.Settings.DemoDataConnectionString"
+            connectionString="REDACTED"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
