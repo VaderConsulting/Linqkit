@@ -24,6 +24,10 @@ Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. Predica
 
 Open `LinqKit.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008 to 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
