@@ -2,6 +2,8 @@
 
 Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. PredicateBuilder.True/False/And/Or compose Expression<Func<T,bool>>; ExpandableQuery and ExpressionExpander let Invoke'd sub-expressions expand inside IQueryable. Demo.Program queries customers with purchases over $1000. Open `LinqKit.sln`. Original license is license.txt; see THIRD_PARTY_NOTICES.md.
 
+Working copy from my Historical Dev folder.
+
 **Source last updated:** 2013-08-23  
 **Language:** C#  
 **Target:** v3.5  
